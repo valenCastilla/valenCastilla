@@ -2,7 +2,7 @@
 
 <br>
 
-[![portada-github.png](https://i.postimg.cc/tCL1tt0Y/portada-github.png)](https://postimg.cc/N5kfQXjc)
+![portada-github.png](https://github.com/valenCastilla/valenCastilla/blob/main/portada%20github.png)
 
 <h3 align="center">💻 A passionate Data Analyst from Argentina 🧉</h3>
 
@@ -114,6 +114,79 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+<br/>
+
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/valenCastilla/Mushrooms" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/valenCastilla/valenCastilla/blob/main/Captura%20de%20pantalla%202024-07-12%20100755.png"   alt="PROYECTO" /></a>
+      </p>
+    <p align="center">
+        </a>
+      <a href="https://github.com/valenCastilla/Mushrooms" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Proyecto" /></a>
+    </p>    
+
+
+
+    
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/valenCastilla/Database_Java" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/valenCastilla/valenCastilla/blob/main/Dark%20Blue%20And%20Blue%20Futuristic%20Web%20Hosting%20Banner.png"   alt="PROYECTO" /></a>
+      </p>
+    <p align="center">
+      </a>
+      <a href="https://github.com/valenCastilla/Database_Java" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Proyecto" /></a>
+    </p>       
+</td>
+
+
+
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/valenCastilla/Formula_1" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/valenCastilla/valenCastilla/blob/main/Captura%20de%20pantalla%202024-07-12%20100856.png"   alt="PROYECTO" /></a>
+      </p>
+    <p align="center">
+      </a>
+      <a href="https://github.com/valenCastilla/Formula_1" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Proyecto" /></a>
+    </p>       
+</td>
+
+
+
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 
 
 

@@ -1,4 +1,4 @@
-##  <h1 align="center"><b>Hello World, I´m Valentín Castilla  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+##  <h1 align="center"><b>Hi, I´m Valentín Castilla  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -11,7 +11,13 @@
 <p align="center">I am fascinated by the new world that is emerging from Big data and the incredible expansion of Computer Science 🌐 that make me consider studying Data Science from an early age. 👌 I am an Artificial Intelligence and Machine Learning Enthusiast 🤖 constantly trying to incorporate these new tools into my projects and cool stuffs. 💻 The new future on data is around the corner and I want to be prepare for it. 🛠️</p>
 
 <br>
-<p align="center">Excited to explore new job opportunities. I'm all ears...</p>
+<p align="center">Excited to explore new job opportunities. I'm all ears... 👇</p> 
+
+<div align="center">
+<a href="https://www.linkedin.com/in/valentin-castilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentin.Castilla" height="30" width="40" /></a>
+</div>
+
+<br>
 <br>
 
 <div align="center">
@@ -55,8 +61,6 @@
 
 - 📫 How to reach me **valentincastilla.ok@gmail.com**
 
-- 📄 Here is my resumee https://i.postimg.cc/tCL1tt0Y/portada-github.png
-
 
 
 
@@ -64,11 +68,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valentin-castilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentin.Castilla" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -79,35 +79,35 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=py,r,java,html,css,nodejs,htmx" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,discord,notion" />
   </a>
 </p>
 

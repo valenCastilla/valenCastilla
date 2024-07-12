@@ -169,12 +169,12 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+     <a href="https://valencastilla.github.io/" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/valenCastilla/valenCastilla/blob/main/Presentaci%C3%B3n%20para%20sitio%20web%20y%20m%C3%B3vil%20elegante%20y%20moderna%20tonos%20tierra%20pastel.png"   alt="PROYECTO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        </a>
+      <a href="https://github.com/valenCastilla/valencastilla.github.io"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Proyecto" /></a>
     </p>       
 </td>
 

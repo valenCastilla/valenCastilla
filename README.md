@@ -8,12 +8,9 @@
 
 <br> 
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+<p align="center">I am fascinated by the new world that is emerging from Big data and the incredible expansion of Computer Science 🌐 that make me consider studying Data Science from an early age. 👌 I am an Artificial Intelligence and Machine Learning Enthusiast 🤖 constantly trying to incorporate these new tools into my projects and cool stuffs. 💻 A new Data world is approaching and I want to be prepare for it. 🛠️</p>
+
+<br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -38,19 +35,28 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+<h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently doing a  **Data Science Degree**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 🏛️ Studing at  **Universidad Nacional de San Martín**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 🔭 I’m not working nowadays, but I’m in active search...
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- - ⚡ Fun fact **I love mate** 🧉
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- ⚽ I love playing football and doing exercise. 
 
-- ⚡ Fun fact **I think I'm funny**
+- 👨‍💻 All of my projects are available at (https://github.com/valenCastilla?tab=repositories)
+
+- 📫 How to reach me **valentincastilla.ok@gmail.com**
+
+- 📄 Here is my resumee https://i.postimg.cc/tCL1tt0Y/portada-github.png
+
+![CV](https://img.shields.io/badge/CV-https%3A%2F%2Fimg.shields.io%2Fbadge%2FBuild-Passing-brightgreen-blue)
+
+
+
 
 <br>
 <h3 align="left">Connect with me:</h3>

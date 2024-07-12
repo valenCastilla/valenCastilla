@@ -8,8 +8,10 @@
 
 <br> 
 
-<p align="center">I am fascinated by the new world that is emerging from Big data and the incredible expansion of Computer Science 🌐 that make me consider studying Data Science from an early age. 👌 I am an Artificial Intelligence and Machine Learning Enthusiast 🤖 constantly trying to incorporate these new tools into my projects and cool stuffs. 💻 A new Data world is approaching and I want to be prepare for it. 🛠️</p>
+<p align="center">I am fascinated by the new world that is emerging from Big data and the incredible expansion of Computer Science 🌐 that make me consider studying Data Science from an early age. 👌 I am an Artificial Intelligence and Machine Learning Enthusiast 🤖 constantly trying to incorporate these new tools into my projects and cool stuffs. 💻 The new future on data is around the corner and I want to be prepare for it. 🛠️</p>
 
+<br>
+<p align="center">Excited to explore new job opportunities. I'm all ears...</p>
 <br>
 
 <div align="center">
@@ -43,9 +45,11 @@
 
 - 🔭 I’m not working nowadays, but I’m in active search...
 
-- - ⚡ Fun fact **I love mate** 🧉
+- 🧉 Fun fact **Mates everytime and everywhere** 🧉
 
-- ⚽ I love playing football and doing exercise. 
+- ⛷️ I love playing football and doing exercise. 
+
+- ⚡ What about my hobbies?  I spent my free time doing trading. 
 
 - 👨‍💻 All of my projects are available at (https://github.com/valenCastilla?tab=repositories)
 
@@ -53,7 +57,6 @@
 
 - 📄 Here is my resumee https://i.postimg.cc/tCL1tt0Y/portada-github.png
 
-![CV](https://img.shields.io/badge/CV-https%3A%2F%2Fimg.shields.io%2Fbadge%2FBuild-Passing-brightgreen-blue)
 
 
 
